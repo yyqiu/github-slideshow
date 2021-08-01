@@ -1,0 +1,3 @@
+def initApp() {
+   echo 'init...' 
+}
